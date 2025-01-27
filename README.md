@@ -1,4 +1,4 @@
-# Afk bot for aternos
+aw# Afk bot for aternos
 Hi, this is a aternos bot which stays afk in your minecraft server.
 A full setup guide is a available at: https://docs.dornox.live so kindly refer to this as the setup below doesn't include hosting.
 ### **Setup:**  
@@ -6,8 +6,8 @@ First of all you need to change the ip in [config file](https://github.com/krush
 **Don't change the port**, you may change the rest of the stuff
 ```
 {
-	"ip":"yourip.aternos.me",
-	"port": "25565",
+	"ip":"st4llaSMP.aternos.me",
+	"port": "44526",
 	"name": "afk bot"
 }
 
